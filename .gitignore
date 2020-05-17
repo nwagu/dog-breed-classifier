@@ -1,2 +1,3 @@
-**/dogImages
-**/lfw
+dogImages/
+lfw/
+.ipynb_checkpoints/
